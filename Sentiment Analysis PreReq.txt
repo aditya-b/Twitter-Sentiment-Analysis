@@ -1,0 +1,7 @@
+Prerequisites:
+	1. TextBlob: pip install textblob
+	2. Tweepy: pip install tweepy
+	3. Corpus: python -m textblob.download_corpora
+	4. Plotly: pip install plotly
+	5. MatPlotLib: pip install matplotlib
+	6. Word Cloud: pip install wordcloud
